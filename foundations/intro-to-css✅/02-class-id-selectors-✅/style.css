@@ -1,0 +1,21 @@
+.parrafar {
+  background: salmon;
+}
+
+#div-cooler {
+  background: greenyellow;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.parrafar.cooler {
+  font-size: 40px;
+}
+
+#div-normal {
+  color: darkviolet;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 90px;
+}

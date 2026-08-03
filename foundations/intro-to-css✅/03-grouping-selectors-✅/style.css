@@ -1,0 +1,23 @@
+#first,
+#second {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+#first {
+  background: black;
+  color: white;
+}
+
+#first:hover {
+  background: dimgrey;
+}
+
+#first:active {
+  background: white;
+  color: black;
+}
+
+#second {
+  background: yellow;
+}
